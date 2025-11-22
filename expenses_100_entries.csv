@@ -1,0 +1,106 @@
+Date,Amount,Category,Description
+2025-01-01,,Health,Snacks
+2025-01-02,2090.0,Health,Water bill
+2025-01-03,2535.0,Transport,Dinner
+2025-01-04,1705.0,Transport,Café visit
+2025-01-05,1027.0,Health,Breakfast
+2025-01-06,1449.0,Shopping,Movie night
+2025-01-07,,Transport,Grocery shopping
+2025-01-08,2074.0,Health,Grocery shopping
+2025-01-09,2112.0,Shopping,Gym membership
+2025-01-10,1542.0,Food,Café visit
+2025-01-11,2064.0,Shopping,Bus fare
+2025-01-12,796.0,Shopping,Lunch
+2025-01-13,2198.0,Health,Concert ticket
+2025-01-14,1323.0,Health,Breakfast
+2025-01-15,1704.0,Shopping,Gym membership
+2025-01-16,1755.0,Entertainment,Movie night
+2025-01-17,100.0,Food,
+2025-01-18,2641.0,Utilities,Grocery shopping
+2025-01-19,1474.0,Utilities,Online subscription
+2025-01-20,1723.0,Health,Grocery shopping
+2025-01-21,1985.0,Health,Movie night
+2025-01-22,937.0,Health,Bus fare
+2025-01-23,1877.0,,Dinner
+2025-01-24,1223.0,Entertainment,Gym membership
+2025-01-25,2058.0,Transport,Concert ticket
+2025-01-26,,Health,Grocery shopping
+2025-01-27,2907.0,Utilities,Dinner
+2025-01-28,1728.0,Health,Fuel
+2025-01-29,1855.0,Transport,Electricity bill
+2025-01-30,,Utilities,Grocery shopping
+2025-01-31,1752.0,Transport,Internet bill
+2025-02-01,2191.0,Health,Medical bill
+2025-02-02,2772.0,Health,Café visit
+2025-02-03,1880.0,Food,Online subscription
+2025-02-04,2099.0,Shopping,Fuel
+2025-02-05,2852.0,,Gym membership
+2025-02-06,265.0,Utilities,Fuel
+2025-02-07,212.0,Transport,Lunch
+2025-02-08,799.0,Food,Snacks
+2025-02-09,1482.0,Transport,Shopping
+2025-02-10,2088.0,,Grocery shopping
+2025-02-11,2288.0,Health,Shopping
+2025-02-12,849.0,Transport,Gym membership
+2025-02-13,,Entertainment,Concert ticket
+2025-02-14,144.0,Utilities,Internet bill
+2025-02-15,1817.0,Transport,Fuel
+2025-02-16,657.0,Food,Lunch
+2025-02-17,1021.0,Entertainment,Internet bill
+2025-02-18,2494.0,Entertainment,Medical bill
+2025-02-19,1223.0,Entertainment,Medical bill
+2025-02-20,918.0,Utilities,Internet bill
+2025-02-21,2617.0,Shopping,Internet bill
+2025-02-22,374.0,Utilities,Internet bill
+2025-02-23,2338.0,Entertainment,Concert ticket
+2025-02-24,634.0,Entertainment,Concert ticket
+2025-02-25,1508.0,Entertainment,Shopping
+2025-02-26,2684.0,Food,Medical bill
+2025-02-27,1244.0,Food,
+2025-02-28,1560.0,Utilities,Lunch
+2025-03-01,2368.0,Food,Fuel
+2025-03-02,2414.0,Utilities,
+2025-03-03,386.0,,Medical bill
+2025-03-04,664.0,Utilities,Snacks
+2025-03-05,1137.0,Food,Electricity bill
+2025-03-06,2093.0,Food,Grocery shopping
+2025-03-07,544.0,Utilities,Electricity bill
+2025-03-08,140.0,Transport,Online subscription
+2025-03-09,233.0,Health,Internet bill
+2025-03-10,920.0,Shopping,Cab ride
+2025-03-11,1206.0,Food,Online subscription
+2025-03-12,847.0,Food,Lunch
+2025-03-13,731.0,Transport,Lunch
+2025-03-14,2247.0,Food,Café visit
+2025-03-15,1825.0,Health,Gym membership
+2025-03-16,928.0,Utilities,Cab ride
+2025-03-17,2439.0,Entertainment,Shopping
+2025-03-18,1752.0,Utilities,Electricity bill
+2025-03-19,1219.0,Entertainment,Medical bill
+2025-03-20,2022.0,Health,Online subscription
+2025-03-21,931.0,Transport,Cab ride
+2025-03-22,2722.0,Food,
+2025-03-23,793.0,Food,Fuel
+2025-03-24,2290.0,Shopping,Online subscription
+2025-03-25,104.0,Health,Dinner
+2025-03-26,2670.0,Entertainment,
+2025-03-27,761.0,Transport,Cab ride
+2025-03-28,2248.0,,Bus fare
+2025-03-29,415.0,Utilities,Online subscription
+2025-03-30,2076.0,Utilities,Medical bill
+2025-03-31,490.0,Transport,Fuel
+2025-04-01,140.0,Shopping,Concert ticket
+2025-04-02,877.0,Food,Breakfast
+2025-04-03,1213.0,Health,Fuel
+2025-04-04,95.0,Transport,Fuel
+2025-04-05,2514.0,Food,Medical bill
+2025-04-06,1593.0,Entertainment,Dinner
+2025-04-07,194.0,Entertainment,Gym membership
+2025-04-08,917.0,Utilities,Concert ticket
+2025-04-09,606.0,Food,Medical bill
+2025-04-10,1818.0,Food,Fuel
+2025-03-25,104.0,Health,Dinner
+2025-02-23,2338.0,Entertainment,Concert ticket
+2025-03-12,847.0,Food,Lunch
+2025-02-15,1817.0,Transport,Fuel
+2025-02-14,144.0,Utilities,Internet bill
