@@ -1,5 +1,5 @@
 
-# 💰 Expense Tracker – Python Project
+# 💰 Expense Tracker 
 
 A Python-based application for recording, analyzing, filtering, and visualizing **daily expenses**, built using **OOP**, **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.
 
