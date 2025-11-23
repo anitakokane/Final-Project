@@ -108,7 +108,3 @@ A **menu-driven console application** that allows users to:
 * View summary reports
 * Generate visual charts
 * Exit anytime
-
-
-
-Just tell me!
